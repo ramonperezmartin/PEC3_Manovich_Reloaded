@@ -1,7 +1,7 @@
 
 # PEC3: Dos nuevas hibridaciones siguiendo a Manovich
 
-#Introducción
+##2 Introducción
 
 **Autor: Ramón Pérez Martín**
 
@@ -32,4 +32,4 @@ Brilliant también permite a los usuarios explorar libremente temas que despiert
 
 ## Pikmin Bloom
 
-Cambiamos totalmente el paradigma,
+Cambiamos totalmente el paradigm y nos centraremos en el mundo de los videojuegos, pero este como es de esperar añade una capa mas a la experiencia del juego y es que como buen ejemplo de hibridación tenemos un videojuego interactivo
